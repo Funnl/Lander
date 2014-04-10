@@ -1,7 +1,0 @@
-{
-  "name": "funnl",
-  "root": "./",
-  "clean_urls": true,
-  "cache_control": {},
-  "routes": {}
-}
