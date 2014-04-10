@@ -7,3 +7,10 @@
 height: 100%;
 margin: -5px 10px;
 }
+
+.carousel-inner .item img {
+  min-height: 500px;
+  min-width: 833px;
+  width: 100%;
+}
+}
