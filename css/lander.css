@@ -2,3 +2,8 @@
   float: none;
   margin: 0 auto;
 }
+
+.navbar-brand img {
+height: 100%;
+margin: -5px 10px;
+}
