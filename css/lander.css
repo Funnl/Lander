@@ -1,3 +1,18 @@
+h1 {
+  margin-bottom: 43px;
+}
+
+@media only screen and (max-width: 1040px) {
+  .carousel-caption {
+    top: 40px;
+  }
+}
+
+h3 {
+  font-size: 28px;
+  margin-bottom: 24px;
+}
+
 .col-centered {
   float: none;
   margin: 0 auto;
@@ -16,9 +31,16 @@ margin: -6px 10px;
 }
 
 .input-group {
-  width: 50%;
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.bottom {
+  width: 75%;
+  margin-top: 15px;
 }
 
 #features {
@@ -53,8 +75,8 @@ footer {
 
 .btn-notify {
   color: #293949;
-  background-color: #e4556a;
-  border-color: #e4556a;
+  background-color: #F590FF;
+  border-color: #F590FF;
 }
 
 
@@ -72,5 +94,5 @@ footer {
 .btn-notify.active,
 .open .dropdown-toggle.btn-notify {
   color: #293949;
-  background-color: #DF334C;
-  border-color: #DF334C;
+  background-color: #E159EE;
+  border-color: #E159EE;
