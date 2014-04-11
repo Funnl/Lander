@@ -4,7 +4,13 @@ h1 {
 
 @media only screen and (max-width: 1040px) {
   .carousel-caption {
-    top: 40px;
+    top: 90px;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .carousel-caption {
+    top: 70px;
   }
 }
 
@@ -34,7 +40,7 @@ margin: -6px 10px;
   width: 75%;
   margin-left: auto;
   margin-right: auto;
-  min-width: 300px;
+  min-width: 230px;
   max-width: 500px;
 }
 
