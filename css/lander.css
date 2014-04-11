@@ -27,6 +27,10 @@ margin: -5px 10px;
   padding: 60px 135px 20px 135px;
 }
 
+#features img {
+  border: 3px solid #5E5E5E;
+}
+
 #myCarousel {
   margin-bottom: 0px;
 }
@@ -36,5 +40,37 @@ margin: -5px 10px;
 }
 
 #bottom-cta {
-  margin-top: 40px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
+
+footer {
+  background-color: #293949;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  color: #fff;
+}
+
+.btn-notify {
+  color: #293949;
+  background-color: #e4556a;
+  border-color: #e4556a;
+}
+
+
+.text-center .foot{
+  margin-bottom: 0px;
+}
+
+.carousel-caption {
+  bottom: 70px
+}
+
+.btn-notify:hover,
+.btn-notify:focus,
+.btn-notify:active,
+.btn-notify.active,
+.open .dropdown-toggle.btn-notify {
+  color: #293949;
+  background-color: #DF233F;
+  border-color: #DF233F;
