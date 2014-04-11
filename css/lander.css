@@ -5,7 +5,7 @@
 
 .navbar-brand img {
 height: 35px;
-margin: -5px 10px;
+margin: -6px 10px;
 
 }
 
@@ -72,5 +72,5 @@ footer {
 .btn-notify.active,
 .open .dropdown-toggle.btn-notify {
   color: #293949;
-  background-color: #DF233F;
-  border-color: #DF233F;
+  background-color: #DF334C;
+  border-color: #DF334C;
